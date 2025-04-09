@@ -55,8 +55,8 @@ params:
           title: Sayan Ghosh
           subtitle: "I am a research scholar at IIT Madras."
           imageUrl: "picture.jpeg"
-          imageWidth: 200
-          imageHeight: 200
+          imageWidth: 100        
+          imageHeight: 100
           buttons:
             - name: Papers
               url: papers/
